@@ -14,23 +14,6 @@
 ### 주택 임대 시스템
 전세가 한국의 주요 주택 임대 방식으로, 특히 서울 아파트 임대의 약 60%를 차지하는 중요한 주거 형태<br><br><br>
 
-## 기능 구조도
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/f6f0f364-ad03-4f2d-a142-13dce04e1df9" width="50%">
-</p>
-
-## 시스템 구조도
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0b96d175-8000-4fc4-bc8f-0a0b683a3226" width="50%">
-    <br> <br>
-  <img src="https://github.com/user-attachments/assets/9a9e24cd-5f1a-404c-91ac-8134d5ae7e76" width="50%">
-</p>
-
-
-## WBS
-<p align="center">
-     <img src="https://github.com/user-attachments/assets/d87a8036-3554-42c1-b9c1-d298dc522259" width="100%">
-</p>
 
 <br> <br> <br> <br>
 # Presentation
