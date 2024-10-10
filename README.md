@@ -1,24 +1,13 @@
 # Cross Check
-### 전세사기 예방을 위한 서류 검토 챗봇 <br><br>
+### 전세사기 예방을 위한 서류 검토 챗봇 <br><br><br>
 
-## 프로젝트 배경
-### 전세사기
-임대인이 세입자의 전세금을 부당하게 가로채는 범죄 행위로, 한국 사회에서 심각한 문제로 대두됨<br>
-
-### 사회적 영향
-전세사기로 인한 재정적 손실, 자살, 주거 불안정 등 광범위한 사회적 문제 초래<br>
-
-### 사기 예방 절차의 복잡성
-전세사기 예방을 위해 다수의 문서와 항목을 검토해야 하는 복잡한 과정으로 인해 효과적인 대응이 어려움<br>
-
-### 주택 임대 시스템
-전세가 한국의 주요 주택 임대 방식으로, 특히 서울 아파트 임대의 약 60%를 차지하는 중요한 주거 형태<br><br><br>
-
-
-<br> <br> <br> <br>
 # Presentation
+
+### Start
 ![슬라이드1](https://github.com/user-attachments/assets/43905861-b983-4246-9d97-40d831248078) <br>
 ![슬라이드2](https://github.com/user-attachments/assets/506525d0-a020-41d9-b4ad-947f96ade982) <br>
+
+## 팀 소개 및 역할 분담
 ![슬라이드3](https://github.com/user-attachments/assets/a75a4109-94e4-4309-8feb-35bb47156bb7) <br>
 ![슬라이드4](https://github.com/user-attachments/assets/42ca3edc-0579-4d5b-87eb-c5ac9e039cdd) <br><br>
 
