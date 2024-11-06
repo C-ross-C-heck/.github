@@ -26,7 +26,10 @@
 
 ## 시스템 구조도
 ![슬라이드10](https://github.com/user-attachments/assets/b5154752-8f9b-411e-b73e-798d47449282) <br>
-![슬라이드11](https://github.com/user-attachments/assets/e6429f66-48ba-4cfa-aece-20849e2b10c7) <br><br>
+![슬라이드11](https://github.com/user-attachments/assets/e6429f66-48ba-4cfa-aece-20849e2b10c7) <br>
+![changes](https://github.com/user-attachments/assets/a136af11-d57d-45b0-9fe7-6976b511e997)
+
+<br><br>
 
 ## WBS
 ![슬라이드12](https://github.com/user-attachments/assets/02e238f9-2265-42ec-80fa-756ae1dd5c55) <br>
